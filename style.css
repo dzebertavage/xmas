@@ -66,7 +66,7 @@ input::placeholder {
 }
 
 p {
-    line-height: 24px;
+    line-height: 36px;
 }
 
 .question-box {
@@ -91,8 +91,4 @@ div.submitBtn {
     border-radius: 10px;
     color: #fff;
     font-weight: bold;
-}
-
-.submitBtn > p {
-
 }
